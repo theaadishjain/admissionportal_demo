@@ -1,4 +1,4 @@
-# College Admissions Portal (Express.js, No Database)
+# College Admissions Portal (Express.js)
 
 A beautiful, responsive admissions web application built with Express.js. Users can fill out a student enrollment form and receive a personalized confirmation message—no database required!
 
@@ -42,6 +42,3 @@ README.md              # Instructions
 ## Notes
 - All submissions are stored in-memory (lost on server restart).
 - To apply again, use the "Apply for another" link on the confirmation page.
-
-## Preview
-Add a screenshot as `public/preview.png` (optional). 
