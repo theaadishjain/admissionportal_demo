@@ -1,9 +1,12 @@
 {
+  "name": "admissionportal_demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "body-parser": "^2.2.0",
-    "express": "^5.1.0",
-    "scripts": {
-    "start": "node server.js"
-}
+    "express": "^5.1.0"
   }
 }
